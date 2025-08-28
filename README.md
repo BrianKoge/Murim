@@ -25,6 +25,8 @@ It includes:
 dragon = Dragon("Azure Dragon")
 print(dragon.move())  # Azure Dragon soars through the skies! 🐉
 
+---
+
 ### 2. Warriors
 
 - Swordsman and Archer inherit from Warrior.
